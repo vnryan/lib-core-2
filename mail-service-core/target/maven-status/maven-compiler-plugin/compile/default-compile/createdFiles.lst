@@ -1,0 +1,4 @@
+vn\edupiamath\mailservicecore\config\EnableMailServiceCore.class
+vn\edupiamath\mailservicecore\services\MailService.class
+vn\edupiamath\mailservicecore\services\impl\MailServiceImpl.class
+vn\edupiamath\mailservicecore\config\MailServiceCoreConfig.class

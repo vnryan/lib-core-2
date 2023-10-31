@@ -1,0 +1,5 @@
+vn\edupiamath\zaloclient\services\impl\ZaloClientImpl.class
+vn\edupiamath\zaloclient\services\CallAuthZaloClient.class
+vn\edupiamath\zaloclient\config\EnableZaloClient.class
+vn\edupiamath\zaloclient\services\ZaloClient.class
+vn\edupiamath\zaloclient\config\ZaloClientConfig.class

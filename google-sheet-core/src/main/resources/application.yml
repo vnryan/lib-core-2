@@ -1,0 +1,20 @@
+server:
+  port: 8080
+
+#swagger config
+enable:
+  swagger:
+    ui: true
+
+application:
+  name: googlesheetsDemo
+  spreadsheet:
+    id: 1LWCKvFwdI-pr7CNpzWlaF9BQ8r3AdjkUAuhgiR8FlEs
+  google-sheet:
+    credentials:
+      file:
+#        path: D:\sources\googlesheets-demo\sheet-config\cre1.json
+        path: sheet-config\key.json
+    tokens:
+      directory:
+        path: sheet-config\tokens

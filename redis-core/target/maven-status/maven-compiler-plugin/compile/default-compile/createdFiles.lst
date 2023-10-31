@@ -1,0 +1,4 @@
+vn\ryan\redis\core\config\EnableRedisClusterCore.class
+vn\ryan\redis\core\config\RedisObjectSerializer.class
+vn\ryan\redis\core\utils\RedisHelper.class
+vn\ryan\redis\core\config\RedisConfiguration.class
